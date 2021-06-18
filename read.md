@@ -1,4 +1,4 @@
-#intrud obout ur self:
+#introduction obout my self:
 My name is Rawand Rahhal, a Chemical engineer fresh graduated from AL-BALQA APPLIED UNI.
 
 
