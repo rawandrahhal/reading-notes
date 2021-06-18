@@ -1,5 +1,5 @@
-# reading-notes
-#summery of HTML frome rawand 
+# Reading-notes
+# Summery of HTML frome rawand 
 
 
 HTML: it is a hyper text markeup language.
